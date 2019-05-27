@@ -6,4 +6,7 @@ An example for using Katalon Studio Software Test Automation with Microservice A
 Used Technologies:
  - Python
  - MongoDB
+ - Docker
  - Katalon Studio
+ - Flask
+ - JSON
